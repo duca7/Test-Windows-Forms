@@ -1,0 +1,9 @@
+C:\Users\hohuy\source\repos\Windown form\Windown form\bin\Debug\Windown form.exe.config
+C:\Users\hohuy\source\repos\Windown form\Windown form\bin\Debug\Windown form.exe
+C:\Users\hohuy\source\repos\Windown form\Windown form\bin\Debug\Windown form.pdb
+C:\Users\hohuy\source\repos\Windown form\Windown form\obj\Debug\Windown form.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\Windown form\Windown form\obj\Debug\Windown form.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\Windown form\Windown form\obj\Debug\Windown form.exe
+C:\Users\hohuy\source\repos\Windown form\Windown form\obj\Debug\Windown form.pdb
+C:\Users\hohuy\source\repos\Windown form\Windown form\obj\Debug\Windown_form.MainForm.resources
+C:\Users\hohuy\source\repos\Windown form\Windown form\obj\Debug\Windown form.csproj.GenerateResource.cache
